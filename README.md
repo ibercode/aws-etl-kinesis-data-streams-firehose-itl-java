@@ -32,7 +32,7 @@ The AWS services used in this pattern are
 
 Topology
 
-<img src="topology.png" alt="topology" width="80%"/>
+<img src="itl-topology.png" alt="topology" width="80%"/>
 
 ## Deployment commands
 
