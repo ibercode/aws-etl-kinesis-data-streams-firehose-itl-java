@@ -91,7 +91,7 @@ aws s3 rb s3://tyyiwid97293uodiuidausd
 
 
 ## Author bio
-Name: Razvan Minciuna
-
-LinkedIn: https://www.linkedin.com/in/razvanminciuna/
+Razvan Minciuna
+Software Architect
+https://www.linkedin.com/in/razvanminciuna/
 
