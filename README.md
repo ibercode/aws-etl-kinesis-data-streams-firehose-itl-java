@@ -1,7 +1,7 @@
 ## AWS Serverless Ingest Transform Load (ITL) Pattern
 ## Kinesis Data Stream - Kinesis Firehose - Lambda - S3
 
-This is a Java implementation of the ETL/ITL Pattern using AWS serverless services.
+This is a Java implementation of the ITL Pattern using AWS serverless services.
 
 Reference: https://aws.amazon.com/kinesis/data-firehose/
 
@@ -32,7 +32,7 @@ The AWS services used in this pattern are
 
 Topology
 
-<img src="itl-topology.png" alt="topology" width="80%"/>
+<img src="topology.png" alt="topology" width="80%"/>
 
 ## Deployment commands
 
